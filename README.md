@@ -10,4 +10,5 @@ Dataset contains : 5728 mails
 - Prediction
 - Performance
 - Confusion Matrix and Accuracy
+
 **Accuracy achieved : 98.85%**
